@@ -86,8 +86,6 @@ Linguagens e Ferramentas que estou aprendendo🚀
 
 ##
 
-![4be11875ae3c4c47bc445b875b9247bd](https://github.com/user-attachments/assets/6cc79b94-d567-4c61-b57b-969fd9746914)
-
 <div align="center">
     <img
         alt="ANYA"
